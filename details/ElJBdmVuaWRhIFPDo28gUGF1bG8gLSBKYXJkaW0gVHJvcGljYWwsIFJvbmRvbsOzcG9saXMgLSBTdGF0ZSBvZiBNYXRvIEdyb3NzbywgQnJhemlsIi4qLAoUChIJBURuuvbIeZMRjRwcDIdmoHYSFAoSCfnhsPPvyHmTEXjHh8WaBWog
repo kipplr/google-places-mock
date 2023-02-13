@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Avenida São Paulo",
+                "short_name": "Av. São Paulo",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Jardim Tropical",
+                "short_name": "Jardim Tropical",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rondonópolis",
+                "short_name": "Rondonópolis",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mato Grosso",
+                "short_name": "MT",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Av. São Paulo</span> - <span class=\"extended-address\">Jardim Tropical</span>, <span class=\"locality\">Rondonópolis</span> - <span class=\"region\">MT</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Av. São Paulo - Jardim Tropical, Rondonópolis - MT, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -16.4443652,
+                "lng": -54.6358618
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -16.4430162197085,
+                    "lng": -54.6345128197085
+                },
+                "southwest": {
+                    "lat": -16.4457141802915,
+                    "lng": -54.6372107802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Avenida São Paulo",
+        "place_id": "EjxBdi4gU8OjbyBQYXVsbyAtIEphcmRpbSBUcm9waWNhbCwgUm9uZG9uw7Nwb2xpcyAtIE1ULCBCcmF6aWwiLiosChQKEgkFRG669sh5kxGNHBwMh2agdhIUChIJ-eGw8-_IeZMReMeHxZoFaiA",
+        "reference": "EjxBdi4gU8OjbyBQYXVsbyAtIEphcmRpbSBUcm9waWNhbCwgUm9uZG9uw7Nwb2xpcyAtIE1ULCBCcmF6aWwiLiosChQKEgkFRG669sh5kxGNHBwMh2agdhIUChIJ-eGw8-_IeZMReMeHxZoFaiA",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Av.+S%C3%A3o+Paulo+-+Jardim+Tropical,+Rondon%C3%B3polis+-+MT,+Brazil&ftid=0x9379c8f6ba6e4405:0x76a066870c1c1c8d",
+        "utc_offset": -240,
+        "vicinity": "Jardim Tropical"
+    },
+    "status": "OK"
+}

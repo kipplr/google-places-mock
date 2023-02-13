@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Estrada da Ceasa",
+                "short_name": "Estr. da Ceasa",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Curió Utinga",
+                "short_name": "Curió Utinga",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Belém",
+                "short_name": "Belém",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Pará",
+                "short_name": "PA",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Estr. da Ceasa</span> - <span class=\"extended-address\">Curió Utinga</span>, <span class=\"locality\">Belém</span> - <span class=\"region\">PA</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Estr. da Ceasa - Curió Utinga, Belém - PA, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -1.4365807,
+                "lng": -48.43786979999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -1.435231719708498,
+                    "lng": -48.4365208197085
+                },
+                "southwest": {
+                    "lat": -1.437929680291502,
+                    "lng": -48.43921878029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Estrada da Ceasa",
+        "place_id": "EjNFc3RyLiBkYSBDZWFzYSAtIEN1cmnDsyBVdGluZ2EsIEJlbMOpbSAtIFBBLCBCcmF6aWwiLiosChQKEgkT8t_piYykkhHrx23q7oMhzxIUChIJX26Y9WlmpJIRzImxai3bNuM",
+        "reference": "EjNFc3RyLiBkYSBDZWFzYSAtIEN1cmnDsyBVdGluZ2EsIEJlbMOpbSAtIFBBLCBCcmF6aWwiLiosChQKEgkT8t_piYykkhHrx23q7oMhzxIUChIJX26Y9WlmpJIRzImxai3bNuM",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Estr.+da+Ceasa+-+Curi%C3%B3+Utinga,+Bel%C3%A9m+-+PA,+Brazil&ftid=0x92a48c89e9dff213:0xcf2183eeea6dc7eb",
+        "utc_offset": -180,
+        "vicinity": "Curió Utinga"
+    },
+    "status": "OK"
+}

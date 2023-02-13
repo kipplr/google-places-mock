@@ -1,0 +1,85 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Praça Ceabe",
+                "short_name": "Pça Ceabe",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Centro",
+                "short_name": "Centro",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Betim",
+                "short_name": "Betim",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Minas Gerais",
+                "short_name": "MG",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "32671-072",
+                "short_name": "32671-072",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Praça Ceabe</span> - <span class=\"extended-address\">Centro</span>, <span class=\"locality\">Betim</span> - <span class=\"region\">MG</span>, <span class=\"postal-code\">32671-072</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Praça Ceabe - Centro, Betim - MG, 32671-072, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -19.9680669,
+                "lng": -44.20432520000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -19.9667179197085,
+                    "lng": -44.20297621970851
+                },
+                "southwest": {
+                    "lat": -19.9694158802915,
+                    "lng": -44.20567418029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Praça Ceabe",
+        "place_id": "EjRQcmHDp2EgQ2VhYmUgLSBDZW50cm8sIEJldGltIC0gTUcsIDMyNjcxLTA3MiwgQnJhemlsIi4qLAoUChIJYx00FZvDpgARRjfovkhDsNsSFAoSCZcR-w2Qw6YAES5yJtN8ucqi",
+        "reference": "EjRQcmHDp2EgQ2VhYmUgLSBDZW50cm8sIEJldGltIC0gTUcsIDMyNjcxLTA3MiwgQnJhemlsIi4qLAoUChIJYx00FZvDpgARRjfovkhDsNsSFAoSCZcR-w2Qw6YAES5yJtN8ucqi",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Pra%C3%A7a+Ceabe+-+Centro,+Betim+-+MG,+32671-072,+Brazil&ftid=0xa6c39b15341d63:0xdbb04348bee83746",
+        "utc_offset": -180,
+        "vicinity": "Centro"
+    },
+    "status": "OK"
+}

@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Avenida Ceará",
+                "short_name": "Av. Ceará",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Vila Antonio Vendas",
+                "short_name": "Vila Antonio Vendas",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Campo Grande",
+                "short_name": "Campo Grande",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Mato Grosso do Sul",
+                "short_name": "MS",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Av. Ceará</span> - <span class=\"extended-address\">Vila Antonio Vendas</span>, <span class=\"locality\">Campo Grande</span> - <span class=\"region\">MS</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Av. Ceará - Vila Antonio Vendas, Campo Grande - MS, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -20.4673518,
+                "lng": -54.5907266
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -20.4660028197085,
+                    "lng": -54.5893776197085
+                },
+                "southwest": {
+                    "lat": -20.4687007802915,
+                    "lng": -54.59207558029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Avenida Ceará",
+        "place_id": "EjtBdi4gQ2VhcsOhIC0gVmlsYSBBbnRvbmlvIFZlbmRhcywgQ2FtcG8gR3JhbmRlIC0gTVMsIEJyYXppbCIuKiwKFAoSCa3MsjWR6IaUEeXzfLflfUpPEhQKEgmDQp17uuiGlBE6zX--On4bIg",
+        "reference": "EjtBdi4gQ2VhcsOhIC0gVmlsYSBBbnRvbmlvIFZlbmRhcywgQ2FtcG8gR3JhbmRlIC0gTVMsIEJyYXppbCIuKiwKFAoSCa3MsjWR6IaUEeXzfLflfUpPEhQKEgmDQp17uuiGlBE6zX--On4bIg",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Av.+Cear%C3%A1+-+Vila+Antonio+Vendas,+Campo+Grande+-+MS,+Brazil&ftid=0x9486e89135b2ccad:0x4f4a7de5b77cf3e5",
+        "utc_offset": -240,
+        "vicinity": "Vila Antonio Vendas"
+    },
+    "status": "OK"
+}

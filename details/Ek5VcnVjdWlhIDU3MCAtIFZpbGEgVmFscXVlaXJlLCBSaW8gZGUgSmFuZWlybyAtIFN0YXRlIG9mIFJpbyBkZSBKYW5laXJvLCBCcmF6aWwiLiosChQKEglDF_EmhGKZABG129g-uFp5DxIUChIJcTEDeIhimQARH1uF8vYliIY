@@ -1,0 +1,86 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Urucuia 570",
+                "short_name": "Urucuia 570",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Vila Valqueire",
+                "short_name": "Vila Valqueire",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "Rio de Janeiro",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "RJ",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "21321",
+                "short_name": "21321",
+                "types": [
+                    "postal_code_prefix",
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Urucuia 570</span> - <span class=\"extended-address\">Vila Valqueire</span>, <span class=\"locality\">Rio de Janeiro</span> - <span class=\"region\">RJ</span>, <span class=\"postal-code\">21321</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Urucuia 570 - Vila Valqueire, Rio de Janeiro - RJ, 21321, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -22.8943122,
+                "lng": -43.3632383
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -22.8929632197085,
+                    "lng": -43.3618893197085
+                },
+                "southwest": {
+                    "lat": -22.8956611802915,
+                    "lng": -43.3645872802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Urucuia 570",
+        "place_id": "EkBVcnVjdWlhIDU3MCAtIFZpbGEgVmFscXVlaXJlLCBSaW8gZGUgSmFuZWlybyAtIFJKLCAyMTMyMSwgQnJhemlsIi4qLAoUChIJQxfxJoRimQARtdvYPrhaeQ8SFAoSCXExA3iIYpkAER9bhfL2JYiG",
+        "reference": "EkBVcnVjdWlhIDU3MCAtIFZpbGEgVmFscXVlaXJlLCBSaW8gZGUgSmFuZWlybyAtIFJKLCAyMTMyMSwgQnJhemlsIi4qLAoUChIJQxfxJoRimQARtdvYPrhaeQ8SFAoSCXExA3iIYpkAER9bhfL2JYiG",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Urucuia+570+-+Vila+Valqueire,+Rio+de+Janeiro+-+RJ,+21321,+Brazil&ftid=0x99628426f11743:0xf795ab83ed8dbb5",
+        "utc_offset": -180,
+        "vicinity": "Vila Valqueire"
+    },
+    "status": "OK"
+}

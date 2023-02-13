@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Avenida Brigadeiro Faria Lima",
+                "short_name": "Av. Brg. Faria Lima",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Itaim Bibi",
+                "short_name": "Itaim Bibi",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "São Paulo",
+                "short_name": "São Paulo",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "São Paulo",
+                "short_name": "SP",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Av. Brg. Faria Lima</span> - <span class=\"extended-address\">Itaim Bibi</span>, <span class=\"locality\">São Paulo</span> - <span class=\"region\">SP</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Av. Brg. Faria Lima - Itaim Bibi, São Paulo - SP, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -23.5838308,
+                "lng": -46.6835412
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -23.5824818197085,
+                    "lng": -46.6821922197085
+                },
+                "southwest": {
+                    "lat": -23.5851797802915,
+                    "lng": -46.68489018029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Avenida Brigadeiro Faria Lima",
+        "place_id": "EjlBdi4gQnJnLiBGYXJpYSBMaW1hIC0gSXRhaW0gQmliaSwgU8OjbyBQYXVsbyAtIFNQLCBCcmF6aWwiLiosChQKEgnzNmEbbVfOlBGQec1Lhs960BIUChIJKSqDvEJXzpQR22Q4QxM_Mqk",
+        "reference": "EjlBdi4gQnJnLiBGYXJpYSBMaW1hIC0gSXRhaW0gQmliaSwgU8OjbyBQYXVsbyAtIFNQLCBCcmF6aWwiLiosChQKEgnzNmEbbVfOlBGQec1Lhs960BIUChIJKSqDvEJXzpQR22Q4QxM_Mqk",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Av.+Brg.+Faria+Lima+-+Itaim+Bibi,+S%C3%A3o+Paulo+-+SP,+Brazil&ftid=0x94ce576d1b6136f3:0xd07acf864bcd7990",
+        "utc_offset": -180,
+        "vicinity": "Itaim Bibi"
+    },
+    "status": "OK"
+}

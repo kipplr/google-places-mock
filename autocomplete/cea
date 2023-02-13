@@ -1,0 +1,240 @@
+{
+    "predictions": [
+        {
+            "description": "Ceasa - Santa Cruz, Juiz de Fora - State of Minas Gerais, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 0
+                }
+            ],
+            "place_id": "EkBDZWFzYSAtIFNhbnRhIENydXosIEp1aXogZGUgRm9yYSAtIFN0YXRlIG9mIE1pbmFzIEdlcmFpcywgQnJhemlsIi4qLAoUChIJ69zKqt-emAARBBM-LFqj_lYSFAoSCSlULU4_n5gAEbtXV1muMB_H",
+            "reference": "EkBDZWFzYSAtIFNhbnRhIENydXosIEp1aXogZGUgRm9yYSAtIFN0YXRlIG9mIE1pbmFzIEdlcmFpcywgQnJhemlsIi4qLAoUChIJ69zKqt-emAARBBM-LFqj_lYSFAoSCSlULU4_n5gAEbtXV1muMB_H",
+            "structured_formatting": {
+                "main_text": "Ceasa",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Santa Cruz, Juiz de Fora - State of Minas Gerais, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Ceasa"
+                },
+                {
+                    "offset": 8,
+                    "value": "Santa Cruz"
+                },
+                {
+                    "offset": 20,
+                    "value": "Juiz de Fora"
+                },
+                {
+                    "offset": 35,
+                    "value": "State of Minas Gerais"
+                },
+                {
+                    "offset": 58,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Viaduto da CEASA - Curado, Recife - State of Pernambuco, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 11
+                }
+            ],
+            "place_id": "Ej9WaWFkdXRvIGRhIENFQVNBIC0gQ3VyYWRvLCBSZWNpZmUgLSBTdGF0ZSBvZiBQZXJuYW1idWNvLCBCcmF6aWwiLiosChQKEgmZa1N1sR6rBxFBnqsLr8BehhIUChIJPabnFgYcqwcRNxzLpLO7SkE",
+            "reference": "Ej9WaWFkdXRvIGRhIENFQVNBIC0gQ3VyYWRvLCBSZWNpZmUgLSBTdGF0ZSBvZiBQZXJuYW1idWNvLCBCcmF6aWwiLiosChQKEgmZa1N1sR6rBxFBnqsLr8BehhIUChIJPabnFgYcqwcRNxzLpLO7SkE",
+            "structured_formatting": {
+                "main_text": "Viaduto da CEASA",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 11
+                    }
+                ],
+                "secondary_text": "Curado, Recife - State of Pernambuco, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Viaduto da CEASA"
+                },
+                {
+                    "offset": 19,
+                    "value": "Curado"
+                },
+                {
+                    "offset": 27,
+                    "value": "Recife"
+                },
+                {
+                    "offset": 36,
+                    "value": "State of Pernambuco"
+                },
+                {
+                    "offset": 57,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Estrada da Ceasa - Curió-Utinga, Belém - State of Pará, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 11
+                }
+            ],
+            "place_id": "EkFFc3RyYWRhIGRhIENlYXNhIC0gQ3VyacOzLVV0aW5nYSwgQmVsw6ltIC0gU3RhdGUgb2YgUGFyw6EsIEJyYXppbCIuKiwKFAoSCRPy3-mJjKSSEevHberugyHPEhQKEglfbpj1aWakkhHMibFqLds24w",
+            "reference": "EkFFc3RyYWRhIGRhIENlYXNhIC0gQ3VyacOzLVV0aW5nYSwgQmVsw6ltIC0gU3RhdGUgb2YgUGFyw6EsIEJyYXppbCIuKiwKFAoSCRPy3-mJjKSSEevHberugyHPEhQKEglfbpj1aWakkhHMibFqLds24w",
+            "structured_formatting": {
+                "main_text": "Estrada da Ceasa",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 11
+                    }
+                ],
+                "secondary_text": "Curió-Utinga, Belém - State of Pará, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Estrada da Ceasa"
+                },
+                {
+                    "offset": 19,
+                    "value": "Curió-Utinga"
+                },
+                {
+                    "offset": 33,
+                    "value": "Belém"
+                },
+                {
+                    "offset": 41,
+                    "value": "State of Pará"
+                },
+                {
+                    "offset": 56,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Avenida Ceará - Vila Antonio Vendas, Campo Grande - State of Mato Grosso do Sul, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 8
+                }
+            ],
+            "place_id": "ElhBdmVuaWRhIENlYXLDoSAtIFZpbGEgQW50b25pbyBWZW5kYXMsIENhbXBvIEdyYW5kZSAtIFN0YXRlIG9mIE1hdG8gR3Jvc3NvIGRvIFN1bCwgQnJhemlsIi4qLAoUChIJrcyyNZHohpQR5fN8t-V9Sk8SFAoSCYNCnXu66IaUETrNf746fhsi",
+            "reference": "ElhBdmVuaWRhIENlYXLDoSAtIFZpbGEgQW50b25pbyBWZW5kYXMsIENhbXBvIEdyYW5kZSAtIFN0YXRlIG9mIE1hdG8gR3Jvc3NvIGRvIFN1bCwgQnJhemlsIi4qLAoUChIJrcyyNZHohpQR5fN8t-V9Sk8SFAoSCYNCnXu66IaUETrNf746fhsi",
+            "structured_formatting": {
+                "main_text": "Avenida Ceará",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 8
+                    }
+                ],
+                "secondary_text": "Vila Antonio Vendas, Campo Grande - State of Mato Grosso do Sul, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Avenida Ceará"
+                },
+                {
+                    "offset": 16,
+                    "value": "Vila Antonio Vendas"
+                },
+                {
+                    "offset": 37,
+                    "value": "Campo Grande"
+                },
+                {
+                    "offset": 52,
+                    "value": "State of Mato Grosso do Sul"
+                },
+                {
+                    "offset": 81,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Pça Ceabe - Centro, Betim - State of Minas Gerais, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 4
+                }
+            ],
+            "place_id": "EjpQw6dhIENlYWJlIC0gQ2VudHJvLCBCZXRpbSAtIFN0YXRlIG9mIE1pbmFzIEdlcmFpcywgQnJhemlsIi4qLAoUChIJYx00FZvDpgARRjfovkhDsNsSFAoSCZcR-w2Qw6YAES5yJtN8ucqi",
+            "reference": "EjpQw6dhIENlYWJlIC0gQ2VudHJvLCBCZXRpbSAtIFN0YXRlIG9mIE1pbmFzIEdlcmFpcywgQnJhemlsIi4qLAoUChIJYx00FZvDpgARRjfovkhDsNsSFAoSCZcR-w2Qw6YAES5yJtN8ucqi",
+            "structured_formatting": {
+                "main_text": "Pça Ceabe",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 4
+                    }
+                ],
+                "secondary_text": "Centro, Betim - State of Minas Gerais, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Pça Ceabe"
+                },
+                {
+                    "offset": 12,
+                    "value": "Centro"
+                },
+                {
+                    "offset": 20,
+                    "value": "Betim"
+                },
+                {
+                    "offset": 28,
+                    "value": "State of Minas Gerais"
+                },
+                {
+                    "offset": 51,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        }
+    ],
+    "status": "OK"
+}

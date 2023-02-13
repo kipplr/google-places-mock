@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Rua Uruguaiana",
+                "short_name": "R. Uruguaiana",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Centro",
+                "short_name": "Centro",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "Rio de Janeiro",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "RJ",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">R. Uruguaiana</span> - <span class=\"extended-address\">Centro</span>, <span class=\"locality\">Rio de Janeiro</span> - <span class=\"region\">RJ</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "R. Uruguaiana - Centro, Rio de Janeiro - RJ, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -22.9034836,
+                "lng": -43.1805742
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -22.9021346197085,
+                    "lng": -43.17922521970849
+                },
+                "southwest": {
+                    "lat": -22.9048325802915,
+                    "lng": -43.18192318029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rua Uruguaiana",
+        "place_id": "EjNSLiBVcnVndWFpYW5hIC0gQ2VudHJvLCBSaW8gZGUgSmFuZWlybyAtIFJKLCBCcmF6aWwiLiosChQKEgnLPubEXX-ZABFRsGcxbyfWmhIUChIJF3IcFV5_mQARfbkw_ML5_X8",
+        "reference": "EjNSLiBVcnVndWFpYW5hIC0gQ2VudHJvLCBSaW8gZGUgSmFuZWlybyAtIFJKLCBCcmF6aWwiLiosChQKEgnLPubEXX-ZABFRsGcxbyfWmhIUChIJF3IcFV5_mQARfbkw_ML5_X8",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=R.+Uruguaiana+-+Centro,+Rio+de+Janeiro+-+RJ,+Brazil&ftid=0x997f5dc4e63ecb:0x9ad6276f3167b051",
+        "utc_offset": -180,
+        "vicinity": "Centro"
+    },
+    "status": "OK"
+}

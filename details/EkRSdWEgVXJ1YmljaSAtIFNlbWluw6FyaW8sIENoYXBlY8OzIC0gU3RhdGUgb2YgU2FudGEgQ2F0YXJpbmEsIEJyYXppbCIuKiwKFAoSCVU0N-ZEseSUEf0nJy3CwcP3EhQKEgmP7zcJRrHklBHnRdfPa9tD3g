@@ -1,0 +1,85 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Rua Urubici",
+                "short_name": "R. Urubici",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Seminário",
+                "short_name": "Seminário",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Chapecó",
+                "short_name": "Chapecó",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Catarina",
+                "short_name": "SC",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "89813-070",
+                "short_name": "89813-070",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">R. Urubici</span> - <span class=\"extended-address\">Seminário</span>, <span class=\"locality\">Chapecó</span> - <span class=\"region\">SC</span>, <span class=\"postal-code\">89813-070</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "R. Urubici - Seminário, Chapecó - SC, 89813-070, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -27.134881,
+                "lng": -52.6041451
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -27.1335320197085,
+                    "lng": -52.6027961197085
+                },
+                "southwest": {
+                    "lat": -27.1362299802915,
+                    "lng": -52.6054940802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rua Urubici",
+        "place_id": "EjlSLiBVcnViaWNpIC0gU2VtaW7DoXJpbywgQ2hhcGVjw7MgLSBTQywgODk4MTMtMDcwLCBCcmF6aWwiLiosChQKEglVNDfmRLHklBH9JyctwsHD9xIUChIJj-83CUax5JQR50XXz2vbQ94",
+        "reference": "EjlSLiBVcnViaWNpIC0gU2VtaW7DoXJpbywgQ2hhcGVjw7MgLSBTQywgODk4MTMtMDcwLCBCcmF6aWwiLiosChQKEglVNDfmRLHklBH9JyctwsHD9xIUChIJj-83CUax5JQR50XXz2vbQ94",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=R.+Urubici+-+Semin%C3%A1rio,+Chapec%C3%B3+-+SC,+89813-070,+Brazil&ftid=0x94e4b144e6373455:0xf7c3c1c22d2727fd",
+        "utc_offset": -180,
+        "vicinity": "Seminário"
+    },
+    "status": "OK"
+}

@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Rua Ceará",
+                "short_name": "R. Ceará",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Campos Elísios",
+                "short_name": "Campos Elísios",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Ribeirão Preto",
+                "short_name": "Ribeirão Preto",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "São Paulo",
+                "short_name": "SP",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">R. Ceará</span> - <span class=\"extended-address\">Campos Elísios</span>, <span class=\"locality\">Ribeirão Preto</span> - <span class=\"region\">SP</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "R. Ceará - Campos Elísios, Ribeirão Preto - SP, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -21.1666944,
+                "lng": -47.7990158
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -21.1653454197085,
+                    "lng": -47.7976668197085
+                },
+                "southwest": {
+                    "lat": -21.1680433802915,
+                    "lng": -47.8003647802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rua Ceará",
+        "place_id": "EjlSLiBDZWFyw6EgLSBDYW1wb3MgRWzDrXNpb3MsIFJpYmVpcsOjbyBQcmV0byAtIFNQLCBCcmF6aWwiLiosChQKEgmF64o-B7-5lBFlRC9yyIXNmxIUChIJK_jjTLO_uZQRmucDy1M-NvE",
+        "reference": "EjlSLiBDZWFyw6EgLSBDYW1wb3MgRWzDrXNpb3MsIFJpYmVpcsOjbyBQcmV0byAtIFNQLCBCcmF6aWwiLiosChQKEgmF64o-B7-5lBFlRC9yyIXNmxIUChIJK_jjTLO_uZQRmucDy1M-NvE",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=R.+Cear%C3%A1+-+Campos+El%C3%ADsios,+Ribeir%C3%A3o+Preto+-+SP,+Brazil&ftid=0x94b9bf073e8aeb85:0x9bcd85c8722f4465",
+        "utc_offset": -180,
+        "vicinity": "Campos Elísios"
+    },
+    "status": "OK"
+}

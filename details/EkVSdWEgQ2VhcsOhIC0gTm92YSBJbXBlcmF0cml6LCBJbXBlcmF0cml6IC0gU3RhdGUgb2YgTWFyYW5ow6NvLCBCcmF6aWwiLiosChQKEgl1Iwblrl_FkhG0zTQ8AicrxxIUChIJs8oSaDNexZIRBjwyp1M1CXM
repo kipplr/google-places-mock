@@ -1,0 +1,85 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Rua Ceará",
+                "short_name": "R. Ceará",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Praca da Bandeira",
+                "short_name": "Praca da Bandeira",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "Rio de Janeiro",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "RJ",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "20270-160",
+                "short_name": "20270-160",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">R. Ceará</span> - <span class=\"extended-address\">Praca da Bandeira</span>, <span class=\"locality\">Rio de Janeiro</span> - <span class=\"region\">RJ</span>, <span class=\"postal-code\">20270-160</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "R. Ceará - Praca da Bandeira, Rio de Janeiro - RJ, 20270-160, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -22.9093941,
+                "lng": -43.2167008
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -22.9080451197085,
+                    "lng": -43.2153518197085
+                },
+                "southwest": {
+                    "lat": -22.9107430802915,
+                    "lng": -43.2180497802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rua Ceará",
+        "place_id": "EkVSLiBDZWFyw6EgLSBQcmFjYSBkYSBCYW5kZWlyYSwgUmlvIGRlIEphbmVpcm8gLSBSSiwgMjAyNzAtMTYwLCBCcmF6aWwiLiosChQKEgmdk9L2_n6ZABGQR3GGKgA-uBIUChIJSToKKAB_mQAR8NRW37D8J2Y",
+        "reference": "EkVSLiBDZWFyw6EgLSBQcmFjYSBkYSBCYW5kZWlyYSwgUmlvIGRlIEphbmVpcm8gLSBSSiwgMjAyNzAtMTYwLCBCcmF6aWwiLiosChQKEgmdk9L2_n6ZABGQR3GGKgA-uBIUChIJSToKKAB_mQAR8NRW37D8J2Y",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=R.+Cear%C3%A1+-+Praca+da+Bandeira,+Rio+de+Janeiro+-+RJ,+20270-160,+Brazil&ftid=0x997efef6d2939d:0xb83e002a86714790",
+        "utc_offset": -180,
+        "vicinity": "Praca da Bandeira"
+    },
+    "status": "OK"
+}

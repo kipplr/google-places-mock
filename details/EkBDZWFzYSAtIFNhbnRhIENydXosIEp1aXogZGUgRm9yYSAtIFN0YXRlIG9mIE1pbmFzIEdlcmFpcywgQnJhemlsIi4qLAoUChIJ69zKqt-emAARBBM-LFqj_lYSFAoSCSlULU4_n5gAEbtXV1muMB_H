@@ -1,0 +1,86 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Ceasa",
+                "short_name": "Ceasa",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Santa Cruz",
+                "short_name": "Santa Cruz",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Juiz de Fora",
+                "short_name": "Juiz de Fora",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Minas Gerais",
+                "short_name": "MG",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "36088",
+                "short_name": "36088",
+                "types": [
+                    "postal_code_prefix",
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Ceasa</span> - <span class=\"extended-address\">Santa Cruz</span>, <span class=\"locality\">Juiz de Fora</span> - <span class=\"region\">MG</span>, <span class=\"postal-code\">36088</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Ceasa - Santa Cruz, Juiz de Fora - MG, 36088, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -21.7156109,
+                "lng": -43.442773
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -21.71426191970849,
+                    "lng": -43.44142401970851
+                },
+                "southwest": {
+                    "lat": -21.7169598802915,
+                    "lng": -43.44412198029151
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Ceasa",
+        "place_id": "EjRDZWFzYSAtIFNhbnRhIENydXosIEp1aXogZGUgRm9yYSAtIE1HLCAzNjA4OCwgQnJhemlsIi4qLAoUChIJ69zKqt-emAARBBM-LFqj_lYSFAoSCSlULU4_n5gAEbtXV1muMB_H",
+        "reference": "EjRDZWFzYSAtIFNhbnRhIENydXosIEp1aXogZGUgRm9yYSAtIE1HLCAzNjA4OCwgQnJhemlsIi4qLAoUChIJ69zKqt-emAARBBM-LFqj_lYSFAoSCSlULU4_n5gAEbtXV1muMB_H",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Ceasa+-+Santa+Cruz,+Juiz+de+Fora+-+MG,+36088,+Brazil&ftid=0x989edfaacadceb:0x56fea35a2c3e1304",
+        "utc_offset": -180,
+        "vicinity": "Santa Cruz"
+    },
+    "status": "OK"
+}

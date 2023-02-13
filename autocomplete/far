@@ -1,0 +1,240 @@
+{
+    "predictions": [
+        {
+            "description": "Avenida Brigadeiro Faria Lima - Itaim Bibi, São Paulo - State of São Paulo, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 19
+                }
+            ],
+            "place_id": "ElRBdmVuaWRhIEJyaWdhZGVpcm8gRmFyaWEgTGltYSAtIEl0YWltIEJpYmksIFPDo28gUGF1bG8gLSBTdGF0ZSBvZiBTw6NvIFBhdWxvLCBCcmF6aWwiLiosChQKEgnzNmEbbVfOlBGQec1Lhs960BIUChIJKSqDvEJXzpQR22Q4QxM_Mqk",
+            "reference": "ElRBdmVuaWRhIEJyaWdhZGVpcm8gRmFyaWEgTGltYSAtIEl0YWltIEJpYmksIFPDo28gUGF1bG8gLSBTdGF0ZSBvZiBTw6NvIFBhdWxvLCBCcmF6aWwiLiosChQKEgnzNmEbbVfOlBGQec1Lhs960BIUChIJKSqDvEJXzpQR22Q4QxM_Mqk",
+            "structured_formatting": {
+                "main_text": "Avenida Brigadeiro Faria Lima",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 19
+                    }
+                ],
+                "secondary_text": "Itaim Bibi, São Paulo - State of São Paulo, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Avenida Brigadeiro Faria Lima"
+                },
+                {
+                    "offset": 32,
+                    "value": "Itaim Bibi"
+                },
+                {
+                    "offset": 44,
+                    "value": "São Paulo"
+                },
+                {
+                    "offset": 56,
+                    "value": "State of São Paulo"
+                },
+                {
+                    "offset": 76,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Avenida Farrapos - Floresta, Porto Alegre - RS, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 8
+                }
+            ],
+            "place_id": "EjZBdmVuaWRhIEZhcnJhcG9zIC0gRmxvcmVzdGEsIFBvcnRvIEFsZWdyZSAtIFJTLCBCcmF6aWwiLiosChQKEglbEOjIlXkZlRHViW1x6peHTBIUChIJWTzonbt5GZUR0D1yFaxzqI4",
+            "reference": "EjZBdmVuaWRhIEZhcnJhcG9zIC0gRmxvcmVzdGEsIFBvcnRvIEFsZWdyZSAtIFJTLCBCcmF6aWwiLiosChQKEglbEOjIlXkZlRHViW1x6peHTBIUChIJWTzonbt5GZUR0D1yFaxzqI4",
+            "structured_formatting": {
+                "main_text": "Avenida Farrapos",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 8
+                    }
+                ],
+                "secondary_text": "Floresta, Porto Alegre - RS, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Avenida Farrapos"
+                },
+                {
+                    "offset": 19,
+                    "value": "Floresta"
+                },
+                {
+                    "offset": 29,
+                    "value": "Porto Alegre"
+                },
+                {
+                    "offset": 44,
+                    "value": "RS"
+                },
+                {
+                    "offset": 48,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Rua Farme de Amoedo - Ipanema, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 4
+                }
+            ],
+            "place_id": "Ek9SdWEgRmFybWUgZGUgQW1vZWRvIC0gSXBhbmVtYSwgUmlvIGRlIEphbmVpcm8gLSBTdGF0ZSBvZiBSaW8gZGUgSmFuZWlybywgQnJhemlsIi4qLAoUChIJM-fRkRDVmwARSVAje30rGNgSFAoSCZFhcv4P1ZsAEXumWZzaFQK7",
+            "reference": "Ek9SdWEgRmFybWUgZGUgQW1vZWRvIC0gSXBhbmVtYSwgUmlvIGRlIEphbmVpcm8gLSBTdGF0ZSBvZiBSaW8gZGUgSmFuZWlybywgQnJhemlsIi4qLAoUChIJM-fRkRDVmwARSVAje30rGNgSFAoSCZFhcv4P1ZsAEXumWZzaFQK7",
+            "structured_formatting": {
+                "main_text": "Rua Farme de Amoedo",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 4
+                    }
+                ],
+                "secondary_text": "Ipanema, Rio de Janeiro - State of Rio de Janeiro, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Rua Farme de Amoedo"
+                },
+                {
+                    "offset": 22,
+                    "value": "Ipanema"
+                },
+                {
+                    "offset": 31,
+                    "value": "Rio de Janeiro"
+                },
+                {
+                    "offset": 48,
+                    "value": "State of Rio de Janeiro"
+                },
+                {
+                    "offset": 73,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Estrada Doutor Farrula - Heliópolis, Belford Roxo - State of Rio de Janeiro, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 15
+                }
+            ],
+            "place_id": "ElRFc3RyYWRhIERvdXRvciBGYXJydWxhIC0gSGVsacOzcG9saXMsIEJlbGZvcmQgUm94byAtIFN0YXRlIG9mIFJpbyBkZSBKYW5laXJvLCBCcmF6aWwiLiosChQKEgnTAt21qmiZABEevfyajzOfJRIUChIJO5C22MBlmQARcvgtYFKFdKk",
+            "reference": "ElRFc3RyYWRhIERvdXRvciBGYXJydWxhIC0gSGVsacOzcG9saXMsIEJlbGZvcmQgUm94byAtIFN0YXRlIG9mIFJpbyBkZSBKYW5laXJvLCBCcmF6aWwiLiosChQKEgnTAt21qmiZABEevfyajzOfJRIUChIJO5C22MBlmQARcvgtYFKFdKk",
+            "structured_formatting": {
+                "main_text": "Estrada Doutor Farrula",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 15
+                    }
+                ],
+                "secondary_text": "Heliópolis, Belford Roxo - State of Rio de Janeiro, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Estrada Doutor Farrula"
+                },
+                {
+                    "offset": 25,
+                    "value": "Heliópolis"
+                },
+                {
+                    "offset": 37,
+                    "value": "Belford Roxo"
+                },
+                {
+                    "offset": 52,
+                    "value": "State of Rio de Janeiro"
+                },
+                {
+                    "offset": 77,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Avenida São Paulo - Jardim Tropical, Rondonópolis - State of Mato Grosso, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 17,
+                    "offset": 0
+                }
+            ],
+            "place_id": "ElJBdmVuaWRhIFPDo28gUGF1bG8gLSBKYXJkaW0gVHJvcGljYWwsIFJvbmRvbsOzcG9saXMgLSBTdGF0ZSBvZiBNYXRvIEdyb3NzbywgQnJhemlsIi4qLAoUChIJBURuuvbIeZMRjRwcDIdmoHYSFAoSCfnhsPPvyHmTEXjHh8WaBWog",
+            "reference": "ElJBdmVuaWRhIFPDo28gUGF1bG8gLSBKYXJkaW0gVHJvcGljYWwsIFJvbmRvbsOzcG9saXMgLSBTdGF0ZSBvZiBNYXRvIEdyb3NzbywgQnJhemlsIi4qLAoUChIJBURuuvbIeZMRjRwcDIdmoHYSFAoSCfnhsPPvyHmTEXjHh8WaBWog",
+            "structured_formatting": {
+                "main_text": "Avenida São Paulo",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 17,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Jardim Tropical, Rondonópolis - State of Mato Grosso, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Avenida São Paulo"
+                },
+                {
+                    "offset": 20,
+                    "value": "Jardim Tropical"
+                },
+                {
+                    "offset": 37,
+                    "value": "Rondonópolis"
+                },
+                {
+                    "offset": 52,
+                    "value": "State of Mato Grosso"
+                },
+                {
+                    "offset": 74,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        }
+    ],
+    "status": "OK"
+}

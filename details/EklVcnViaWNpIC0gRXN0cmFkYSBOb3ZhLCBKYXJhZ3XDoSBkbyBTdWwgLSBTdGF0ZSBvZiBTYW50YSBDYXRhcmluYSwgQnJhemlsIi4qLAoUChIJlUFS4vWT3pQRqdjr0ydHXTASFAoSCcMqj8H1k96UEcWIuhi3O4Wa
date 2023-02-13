@@ -1,0 +1,86 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Urubici",
+                "short_name": "Urubici",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Estrada Nova",
+                "short_name": "Estrada Nova",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Jaraguá do Sul",
+                "short_name": "Jaraguá do Sul",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Santa Catarina",
+                "short_name": "SC",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "89254",
+                "short_name": "89254",
+                "types": [
+                    "postal_code_prefix",
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Urubici</span> - <span class=\"extended-address\">Estrada Nova</span>, <span class=\"locality\">Jaraguá do Sul</span> - <span class=\"region\">SC</span>, <span class=\"postal-code\">89254</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Urubici - Estrada Nova, Jaraguá do Sul - SC, 89254, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -26.4698194,
+                "lng": -49.1227957
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -26.4684704197085,
+                    "lng": -49.12144671970849
+                },
+                "southwest": {
+                    "lat": -26.4711683802915,
+                    "lng": -49.12414468029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Urubici",
+        "place_id": "EjtVcnViaWNpIC0gRXN0cmFkYSBOb3ZhLCBKYXJhZ3XDoSBkbyBTdWwgLSBTQywgODkyNTQsIEJyYXppbCIuKiwKFAoSCZVBUuL1k96UEanY69MnR10wEhQKEgnDKo_B9ZPelBHFiLoYtzuFmg",
+        "reference": "EjtVcnViaWNpIC0gRXN0cmFkYSBOb3ZhLCBKYXJhZ3XDoSBkbyBTdWwgLSBTQywgODkyNTQsIEJyYXppbCIuKiwKFAoSCZVBUuL1k96UEanY69MnR10wEhQKEgnDKo_B9ZPelBHFiLoYtzuFmg",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Urubici+-+Estrada+Nova,+Jaragu%C3%A1+do+Sul+-+SC,+89254,+Brazil&ftid=0x94de93f5e2524195:0x305d4727d3ebd8a9",
+        "utc_offset": -180,
+        "vicinity": "Estrada Nova"
+    },
+    "status": "OK"
+}

@@ -1,0 +1,85 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Rua Farme de Amoedo",
+                "short_name": "R. Farme de Amoedo",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Ipanema",
+                "short_name": "Ipanema",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "Rio de Janeiro",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "RJ",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "22420-020",
+                "short_name": "22420-020",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">R. Farme de Amoedo</span> - <span class=\"extended-address\">Ipanema</span>, <span class=\"locality\">Rio de Janeiro</span> - <span class=\"region\">RJ</span>, <span class=\"postal-code\">22420-020</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "R. Farme de Amoedo - Ipanema, Rio de Janeiro - RJ, 22420-020, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -22.9841388,
+                "lng": -43.2007135
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -22.9827898197085,
+                    "lng": -43.1993645197085
+                },
+                "southwest": {
+                    "lat": -22.9854877802915,
+                    "lng": -43.2020624802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Rua Farme de Amoedo",
+        "place_id": "EkRSLiBGYXJtZSBkZSBBbW9lZG8gLSBJcGFuZW1hLCBSaW8gZGUgSmFuZWlybyAtIFJKLCAyMjQyMC0wMjAsIEJyYXppbCIuKiwKFAoSCTPn0ZEQ1ZsAEUlQI3t9KxjYEhQKEgmRYXL-D9WbABF7plmc2hUCuw",
+        "reference": "EkRSLiBGYXJtZSBkZSBBbW9lZG8gLSBJcGFuZW1hLCBSaW8gZGUgSmFuZWlybyAtIFJKLCAyMjQyMC0wMjAsIEJyYXppbCIuKiwKFAoSCTPn0ZEQ1ZsAEUlQI3t9KxjYEhQKEgmRYXL-D9WbABF7plmc2hUCuw",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=R.+Farme+de+Amoedo+-+Ipanema,+Rio+de+Janeiro+-+RJ,+22420-020,+Brazil&ftid=0x9bd51091d1e733:0xd8182b7d7b235049",
+        "utc_offset": -180,
+        "vicinity": "Ipanema"
+    },
+    "status": "OK"
+}

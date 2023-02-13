@@ -1,0 +1,85 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Estrada Doutor Farrula",
+                "short_name": "Estr. Dr. Farrula",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Vila Heliopolis",
+                "short_name": "Vila Heliopolis",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Belford Roxo",
+                "short_name": "Belford Roxo",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "RJ",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "26125-400",
+                "short_name": "26125-400",
+                "types": [
+                    "postal_code"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Estr. Dr. Farrula</span> - <span class=\"extended-address\">Vila Heliopolis</span>, <span class=\"locality\">Belford Roxo</span> - <span class=\"region\">RJ</span>, <span class=\"postal-code\">26125-400</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Estr. Dr. Farrula - Vila Heliopolis, Belford Roxo - RJ, 26125-400, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -22.7323762,
+                "lng": -43.4078947
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -22.73102721970849,
+                    "lng": -43.4065457197085
+                },
+                "southwest": {
+                    "lat": -22.7337251802915,
+                    "lng": -43.4092436802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Estrada Doutor Farrula",
+        "place_id": "EklFc3RyLiBEci4gRmFycnVsYSAtIFZpbGEgSGVsaW9wb2xpcywgQmVsZm9yZCBSb3hvIC0gUkosIDI2MTI1LTQwMCwgQnJhemlsIi4qLAoUChIJ0wLdtapomQARHr38mo8znyUSFAoSCTuQttjAZZkAEXL4LWBShXSp",
+        "reference": "EklFc3RyLiBEci4gRmFycnVsYSAtIFZpbGEgSGVsaW9wb2xpcywgQmVsZm9yZCBSb3hvIC0gUkosIDI2MTI1LTQwMCwgQnJhemlsIi4qLAoUChIJ0wLdtapomQARHr38mo8znyUSFAoSCTuQttjAZZkAEXL4LWBShXSp",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Estr.+Dr.+Farrula+-+Vila+Heliopolis,+Belford+Roxo+-+RJ,+26125-400,+Brazil&ftid=0x9968aab5dd02d3:0x259f338f9afcbd1e",
+        "utc_offset": -180,
+        "vicinity": "Vila Heliopolis"
+    },
+    "status": "OK"
+}

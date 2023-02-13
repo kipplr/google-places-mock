@@ -1,0 +1,240 @@
+{
+    "predictions": [
+        {
+            "description": "Urubici - Estrada Nova, Jaraguá do Sul - State of Santa Catarina, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 0
+                }
+            ],
+            "place_id": "EklVcnViaWNpIC0gRXN0cmFkYSBOb3ZhLCBKYXJhZ3XDoSBkbyBTdWwgLSBTdGF0ZSBvZiBTYW50YSBDYXRhcmluYSwgQnJhemlsIi4qLAoUChIJlUFS4vWT3pQRqdjr0ydHXTASFAoSCcMqj8H1k96UEcWIuhi3O4Wa",
+            "reference": "EklVcnViaWNpIC0gRXN0cmFkYSBOb3ZhLCBKYXJhZ3XDoSBkbyBTdWwgLSBTdGF0ZSBvZiBTYW50YSBDYXRhcmluYSwgQnJhemlsIi4qLAoUChIJlUFS4vWT3pQRqdjr0ydHXTASFAoSCcMqj8H1k96UEcWIuhi3O4Wa",
+            "structured_formatting": {
+                "main_text": "Urubici",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Estrada Nova, Jaraguá do Sul - State of Santa Catarina, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Urubici"
+                },
+                {
+                    "offset": 10,
+                    "value": "Estrada Nova"
+                },
+                {
+                    "offset": 24,
+                    "value": "Jaraguá do Sul"
+                },
+                {
+                    "offset": 41,
+                    "value": "State of Santa Catarina"
+                },
+                {
+                    "offset": 66,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Rua Uruguaiana - Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 4
+                }
+            ],
+            "place_id": "EklSdWEgVXJ1Z3VhaWFuYSAtIENlbnRybywgUmlvIGRlIEphbmVpcm8gLSBTdGF0ZSBvZiBSaW8gZGUgSmFuZWlybywgQnJhemlsIi4qLAoUChIJyz7mxF1_mQARUbBnMW8n1poSFAoSCRdyHBVef5kAEX25MPzC-f1_",
+            "reference": "EklSdWEgVXJ1Z3VhaWFuYSAtIENlbnRybywgUmlvIGRlIEphbmVpcm8gLSBTdGF0ZSBvZiBSaW8gZGUgSmFuZWlybywgQnJhemlsIi4qLAoUChIJyz7mxF1_mQARUbBnMW8n1poSFAoSCRdyHBVef5kAEX25MPzC-f1_",
+            "structured_formatting": {
+                "main_text": "Rua Uruguaiana",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 4
+                    }
+                ],
+                "secondary_text": "Centro, Rio de Janeiro - State of Rio de Janeiro, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Rua Uruguaiana"
+                },
+                {
+                    "offset": 17,
+                    "value": "Centro"
+                },
+                {
+                    "offset": 25,
+                    "value": "Rio de Janeiro"
+                },
+                {
+                    "offset": 42,
+                    "value": "State of Rio de Janeiro"
+                },
+                {
+                    "offset": 67,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Urucuia 570 - Vila Valqueire, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 0
+                }
+            ],
+            "place_id": "Ek5VcnVjdWlhIDU3MCAtIFZpbGEgVmFscXVlaXJlLCBSaW8gZGUgSmFuZWlybyAtIFN0YXRlIG9mIFJpbyBkZSBKYW5laXJvLCBCcmF6aWwiLiosChQKEglDF_EmhGKZABG129g-uFp5DxIUChIJcTEDeIhimQARH1uF8vYliIY",
+            "reference": "Ek5VcnVjdWlhIDU3MCAtIFZpbGEgVmFscXVlaXJlLCBSaW8gZGUgSmFuZWlybyAtIFN0YXRlIG9mIFJpbyBkZSBKYW5laXJvLCBCcmF6aWwiLiosChQKEglDF_EmhGKZABG129g-uFp5DxIUChIJcTEDeIhimQARH1uF8vYliIY",
+            "structured_formatting": {
+                "main_text": "Urucuia 570",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 0
+                    }
+                ],
+                "secondary_text": "Vila Valqueire, Rio de Janeiro - State of Rio de Janeiro, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Urucuia 570"
+                },
+                {
+                    "offset": 14,
+                    "value": "Vila Valqueire"
+                },
+                {
+                    "offset": 30,
+                    "value": "Rio de Janeiro"
+                },
+                {
+                    "offset": 47,
+                    "value": "State of Rio de Janeiro"
+                },
+                {
+                    "offset": 72,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Estrada de Urucânia - Santa Cruz, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 11
+                }
+            ],
+            "place_id": "ElNFc3RyYWRhIGRlIFVydWPDom5pYSAtIFNhbnRhIENydXosIFJpbyBkZSBKYW5laXJvIC0gU3RhdGUgb2YgUmlvIGRlIEphbmVpcm8sIEJyYXppbCIuKiwKFAoSCZEQD6Eg-5sAEW8CVDlPd-kaEhQKEgnXihljMPGbABEnwNajhotmkQ",
+            "reference": "ElNFc3RyYWRhIGRlIFVydWPDom5pYSAtIFNhbnRhIENydXosIFJpbyBkZSBKYW5laXJvIC0gU3RhdGUgb2YgUmlvIGRlIEphbmVpcm8sIEJyYXppbCIuKiwKFAoSCZEQD6Eg-5sAEW8CVDlPd-kaEhQKEgnXihljMPGbABEnwNajhotmkQ",
+            "structured_formatting": {
+                "main_text": "Estrada de Urucânia",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 11
+                    }
+                ],
+                "secondary_text": "Santa Cruz, Rio de Janeiro - State of Rio de Janeiro, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Estrada de Urucânia"
+                },
+                {
+                    "offset": 22,
+                    "value": "Santa Cruz"
+                },
+                {
+                    "offset": 34,
+                    "value": "Rio de Janeiro"
+                },
+                {
+                    "offset": 51,
+                    "value": "State of Rio de Janeiro"
+                },
+                {
+                    "offset": 76,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Rua Urubici - Seminário, Chapecó - State of Santa Catarina, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 3,
+                    "offset": 4
+                }
+            ],
+            "place_id": "EkRSdWEgVXJ1YmljaSAtIFNlbWluw6FyaW8sIENoYXBlY8OzIC0gU3RhdGUgb2YgU2FudGEgQ2F0YXJpbmEsIEJyYXppbCIuKiwKFAoSCVU0N-ZEseSUEf0nJy3CwcP3EhQKEgmP7zcJRrHklBHnRdfPa9tD3g",
+            "reference": "EkRSdWEgVXJ1YmljaSAtIFNlbWluw6FyaW8sIENoYXBlY8OzIC0gU3RhdGUgb2YgU2FudGEgQ2F0YXJpbmEsIEJyYXppbCIuKiwKFAoSCVU0N-ZEseSUEf0nJy3CwcP3EhQKEgmP7zcJRrHklBHnRdfPa9tD3g",
+            "structured_formatting": {
+                "main_text": "Rua Urubici",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 3,
+                        "offset": 4
+                    }
+                ],
+                "secondary_text": "Seminário, Chapecó - State of Santa Catarina, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Rua Urubici"
+                },
+                {
+                    "offset": 14,
+                    "value": "Seminário"
+                },
+                {
+                    "offset": 25,
+                    "value": "Chapecó"
+                },
+                {
+                    "offset": 35,
+                    "value": "State of Santa Catarina"
+                },
+                {
+                    "offset": 60,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        }
+    ],
+    "status": "OK"
+}

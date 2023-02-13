@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Avenida Farrapos",
+                "short_name": "Av. Farrapos",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Floresta",
+                "short_name": "Floresta",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Porto Alegre",
+                "short_name": "Porto Alegre",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio Grande do Sul",
+                "short_name": "RS",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Av. Farrapos</span> - <span class=\"extended-address\">Floresta</span>, <span class=\"locality\">Porto Alegre</span> - <span class=\"region\">RS</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Av. Farrapos - Floresta, Porto Alegre - RS, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -30.0185486,
+                "lng": -51.209612
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -30.0171996197085,
+                    "lng": -51.20826301970851
+                },
+                "southwest": {
+                    "lat": -30.0198975802915,
+                    "lng": -51.2109609802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Avenida Farrapos",
+        "place_id": "EjJBdi4gRmFycmFwb3MgLSBGbG9yZXN0YSwgUG9ydG8gQWxlZ3JlIC0gUlMsIEJyYXppbCIuKiwKFAoSCVsQ6MiVeRmVEdWJbXHql4dMEhQKEglZPOidu3kZlRHQPXIVrHOojg",
+        "reference": "EjJBdi4gRmFycmFwb3MgLSBGbG9yZXN0YSwgUG9ydG8gQWxlZ3JlIC0gUlMsIEJyYXppbCIuKiwKFAoSCVsQ6MiVeRmVEdWJbXHql4dMEhQKEglZPOidu3kZlRHQPXIVrHOojg",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Av.+Farrapos+-+Floresta,+Porto+Alegre+-+RS,+Brazil&ftid=0x95197995c8e8105b:0x4c8797ea716d89d5",
+        "utc_offset": -180,
+        "vicinity": "Floresta"
+    },
+    "status": "OK"
+}

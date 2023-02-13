@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Viaduto da CEASA",
+                "short_name": "Viaduto da CEASA",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Curado",
+                "short_name": "Curado",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Recife",
+                "short_name": "Recife",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Pernambuco",
+                "short_name": "PE",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Viaduto da CEASA</span> - <span class=\"extended-address\">Curado</span>, <span class=\"locality\">Recife</span> - <span class=\"region\">PE</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Viaduto da CEASA - Curado, Recife - PE, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -8.0753103,
+                "lng": -34.9399854
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -8.073961319708497,
+                    "lng": -34.93863641970849
+                },
+                "southwest": {
+                    "lat": -8.076659280291501,
+                    "lng": -34.94133438029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Viaduto da CEASA",
+        "place_id": "Ei5WaWFkdXRvIGRhIENFQVNBIC0gQ3VyYWRvLCBSZWNpZmUgLSBQRSwgQnJhemlsIi4qLAoUChIJmWtTdbEeqwcRQZ6rC6_AXoYSFAoSCT2m5xYGHKsHETccy6Szu0pB",
+        "reference": "Ei5WaWFkdXRvIGRhIENFQVNBIC0gQ3VyYWRvLCBSZWNpZmUgLSBQRSwgQnJhemlsIi4qLAoUChIJmWtTdbEeqwcRQZ6rC6_AXoYSFAoSCT2m5xYGHKsHETccy6Szu0pB",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Viaduto+da+CEASA+-+Curado,+Recife+-+PE,+Brazil&ftid=0x7ab1eb175536b99:0x865ec0af0bab9e41",
+        "utc_offset": -180,
+        "vicinity": "Curado"
+    },
+    "status": "OK"
+}

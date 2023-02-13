@@ -1,0 +1,240 @@
+{
+    "predictions": [
+        {
+            "description": "Avenida Ceará - Vila Antonio Vendas, Campo Grande - State of Mato Grosso do Sul, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 4,
+                    "offset": 8
+                }
+            ],
+            "place_id": "ElhBdmVuaWRhIENlYXLDoSAtIFZpbGEgQW50b25pbyBWZW5kYXMsIENhbXBvIEdyYW5kZSAtIFN0YXRlIG9mIE1hdG8gR3Jvc3NvIGRvIFN1bCwgQnJhemlsIi4qLAoUChIJrcyyNZHohpQR5fN8t-V9Sk8SFAoSCYNCnXu66IaUETrNf746fhsi",
+            "reference": "ElhBdmVuaWRhIENlYXLDoSAtIFZpbGEgQW50b25pbyBWZW5kYXMsIENhbXBvIEdyYW5kZSAtIFN0YXRlIG9mIE1hdG8gR3Jvc3NvIGRvIFN1bCwgQnJhemlsIi4qLAoUChIJrcyyNZHohpQR5fN8t-V9Sk8SFAoSCYNCnXu66IaUETrNf746fhsi",
+            "structured_formatting": {
+                "main_text": "Avenida Ceará",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 4,
+                        "offset": 8
+                    }
+                ],
+                "secondary_text": "Vila Antonio Vendas, Campo Grande - State of Mato Grosso do Sul, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Avenida Ceará"
+                },
+                {
+                    "offset": 16,
+                    "value": "Vila Antonio Vendas"
+                },
+                {
+                    "offset": 37,
+                    "value": "Campo Grande"
+                },
+                {
+                    "offset": 52,
+                    "value": "State of Mato Grosso do Sul"
+                },
+                {
+                    "offset": 81,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Rua Ceará - Praça da Bandeira, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 4,
+                    "offset": 4
+                }
+            ],
+            "place_id": "ElFSdWEgQ2VhcsOhIC0gUHJhw6dhIGRhIEJhbmRlaXJhLCBSaW8gZGUgSmFuZWlybyAtIFN0YXRlIG9mIFJpbyBkZSBKYW5laXJvLCBCcmF6aWwiLiosChQKEgmdk9L2_n6ZABGQR3GGKgA-uBIUChIJSToKKAB_mQAR8NRW37D8J2Y",
+            "reference": "ElFSdWEgQ2VhcsOhIC0gUHJhw6dhIGRhIEJhbmRlaXJhLCBSaW8gZGUgSmFuZWlybyAtIFN0YXRlIG9mIFJpbyBkZSBKYW5laXJvLCBCcmF6aWwiLiosChQKEgmdk9L2_n6ZABGQR3GGKgA-uBIUChIJSToKKAB_mQAR8NRW37D8J2Y",
+            "structured_formatting": {
+                "main_text": "Rua Ceará",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 4,
+                        "offset": 4
+                    }
+                ],
+                "secondary_text": "Praça da Bandeira, Rio de Janeiro - State of Rio de Janeiro, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Rua Ceará"
+                },
+                {
+                    "offset": 12,
+                    "value": "Praça da Bandeira"
+                },
+                {
+                    "offset": 31,
+                    "value": "Rio de Janeiro"
+                },
+                {
+                    "offset": 48,
+                    "value": "State of Rio de Janeiro"
+                },
+                {
+                    "offset": 73,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Rua Ceará - Nova Imperatriz, Imperatriz - State of Maranhão, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 4,
+                    "offset": 4
+                }
+            ],
+            "place_id": "EkVSdWEgQ2VhcsOhIC0gTm92YSBJbXBlcmF0cml6LCBJbXBlcmF0cml6IC0gU3RhdGUgb2YgTWFyYW5ow6NvLCBCcmF6aWwiLiosChQKEgl1Iwblrl_FkhG0zTQ8AicrxxIUChIJs8oSaDNexZIRBjwyp1M1CXM",
+            "reference": "EkVSdWEgQ2VhcsOhIC0gTm92YSBJbXBlcmF0cml6LCBJbXBlcmF0cml6IC0gU3RhdGUgb2YgTWFyYW5ow6NvLCBCcmF6aWwiLiosChQKEgl1Iwblrl_FkhG0zTQ8AicrxxIUChIJs8oSaDNexZIRBjwyp1M1CXM",
+            "structured_formatting": {
+                "main_text": "Rua Ceará",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 4,
+                        "offset": 4
+                    }
+                ],
+                "secondary_text": "Nova Imperatriz, Imperatriz - State of Maranhão, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Rua Ceará"
+                },
+                {
+                    "offset": 12,
+                    "value": "Nova Imperatriz"
+                },
+                {
+                    "offset": 29,
+                    "value": "Imperatriz"
+                },
+                {
+                    "offset": 42,
+                    "value": "State of Maranhão"
+                },
+                {
+                    "offset": 61,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Avenida Ceará - São João, Porto Alegre - RS, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 4,
+                    "offset": 8
+                }
+            ],
+            "place_id": "EjZBdmVuaWRhIENlYXLDoSAtIFPDo28gSm_Do28sIFBvcnRvIEFsZWdyZSAtIFJTLCBCcmF6aWwiLiosChQKEgk_UKoX6XkZlRGPbxrehsFXHhIUChIJAUZ2tll3GZUR6AdtOt8FY3s",
+            "reference": "EjZBdmVuaWRhIENlYXLDoSAtIFPDo28gSm_Do28sIFBvcnRvIEFsZWdyZSAtIFJTLCBCcmF6aWwiLiosChQKEgk_UKoX6XkZlRGPbxrehsFXHhIUChIJAUZ2tll3GZUR6AdtOt8FY3s",
+            "structured_formatting": {
+                "main_text": "Avenida Ceará",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 4,
+                        "offset": 8
+                    }
+                ],
+                "secondary_text": "São João, Porto Alegre - RS, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Avenida Ceará"
+                },
+                {
+                    "offset": 16,
+                    "value": "São João"
+                },
+                {
+                    "offset": 26,
+                    "value": "Porto Alegre"
+                },
+                {
+                    "offset": 41,
+                    "value": "RS"
+                },
+                {
+                    "offset": 45,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        },
+        {
+            "description": "Rua Ceará - Campos Elísios, Ribeirão Preto - State of São Paulo, Brazil",
+            "matched_substrings": [
+                {
+                    "length": 4,
+                    "offset": 4
+                }
+            ],
+            "place_id": "EktSdWEgQ2VhcsOhIC0gQ2FtcG9zIEVsw61zaW9zLCBSaWJlaXLDo28gUHJldG8gLSBTdGF0ZSBvZiBTw6NvIFBhdWxvLCBCcmF6aWwiLiosChQKEgmF64o-B7-5lBFlRC9yyIXNmxIUChIJK_jjTLO_uZQRmucDy1M-NvE",
+            "reference": "EktSdWEgQ2VhcsOhIC0gQ2FtcG9zIEVsw61zaW9zLCBSaWJlaXLDo28gUHJldG8gLSBTdGF0ZSBvZiBTw6NvIFBhdWxvLCBCcmF6aWwiLiosChQKEgmF64o-B7-5lBFlRC9yyIXNmxIUChIJK_jjTLO_uZQRmucDy1M-NvE",
+            "structured_formatting": {
+                "main_text": "Rua Ceará",
+                "main_text_matched_substrings": [
+                    {
+                        "length": 4,
+                        "offset": 4
+                    }
+                ],
+                "secondary_text": "Campos Elísios, Ribeirão Preto - State of São Paulo, Brazil"
+            },
+            "terms": [
+                {
+                    "offset": 0,
+                    "value": "Rua Ceará"
+                },
+                {
+                    "offset": 12,
+                    "value": "Campos Elísios"
+                },
+                {
+                    "offset": 28,
+                    "value": "Ribeirão Preto"
+                },
+                {
+                    "offset": 45,
+                    "value": "State of São Paulo"
+                },
+                {
+                    "offset": 65,
+                    "value": "Brazil"
+                }
+            ],
+            "types": [
+                "route",
+                "geocode"
+            ]
+        }
+    ],
+    "status": "OK"
+}

@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Avenida Ceará",
+                "short_name": "Av. Ceará",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "São João",
+                "short_name": "São João",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Porto Alegre",
+                "short_name": "Porto Alegre",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio Grande do Sul",
+                "short_name": "RS",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Av. Ceará</span> - <span class=\"extended-address\">São João</span>, <span class=\"locality\">Porto Alegre</span> - <span class=\"region\">RS</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Av. Ceará - São João, Porto Alegre - RS, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -30.00543759999999,
+                "lng": -51.1930461
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -30.0040886197085,
+                    "lng": -51.1916971197085
+                },
+                "southwest": {
+                    "lat": -30.00678658029149,
+                    "lng": -51.19439508029149
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Avenida Ceará",
+        "place_id": "EjJBdi4gQ2VhcsOhIC0gU8OjbyBKb8OjbywgUG9ydG8gQWxlZ3JlIC0gUlMsIEJyYXppbCIuKiwKFAoSCT9QqhfpeRmVEY9vGt6GwVceEhQKEgkBRna2WXcZlRHoB2063wVjew",
+        "reference": "EjJBdi4gQ2VhcsOhIC0gU8OjbyBKb8OjbywgUG9ydG8gQWxlZ3JlIC0gUlMsIEJyYXppbCIuKiwKFAoSCT9QqhfpeRmVEY9vGt6GwVceEhQKEgkBRna2WXcZlRHoB2063wVjew",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Av.+Cear%C3%A1+-+S%C3%A3o+Jo%C3%A3o,+Porto+Alegre+-+RS,+Brazil&ftid=0x951979e917aa503f:0x1e57c186de1a6f8f",
+        "utc_offset": -180,
+        "vicinity": "São João"
+    },
+    "status": "OK"
+}

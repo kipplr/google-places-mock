@@ -1,0 +1,78 @@
+{
+    "html_attributions": [],
+    "result": {
+        "address_components": [
+            {
+                "long_name": "Estrada de Urucânia",
+                "short_name": "Est. de Urucânia",
+                "types": [
+                    "route"
+                ]
+            },
+            {
+                "long_name": "Santa Cruz",
+                "short_name": "Santa Cruz",
+                "types": [
+                    "sublocality_level_1",
+                    "sublocality",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "Rio de Janeiro",
+                "types": [
+                    "administrative_area_level_2",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Rio de Janeiro",
+                "short_name": "RJ",
+                "types": [
+                    "administrative_area_level_1",
+                    "political"
+                ]
+            },
+            {
+                "long_name": "Brazil",
+                "short_name": "BR",
+                "types": [
+                    "country",
+                    "political"
+                ]
+            }
+        ],
+        "adr_address": "<span class=\"street-address\">Est. de Urucânia</span> - <span class=\"extended-address\">Santa Cruz</span>, <span class=\"locality\">Rio de Janeiro</span> - <span class=\"region\">RJ</span>, <span class=\"country-name\">Brazil</span>",
+        "formatted_address": "Est. de Urucânia - Santa Cruz, Rio de Janeiro - RJ, Brazil",
+        "geometry": {
+            "location": {
+                "lat": -22.9179788,
+                "lng": -43.65471429999999
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": -22.91662981970851,
+                    "lng": -43.6533653197085
+                },
+                "southwest": {
+                    "lat": -22.91932778029151,
+                    "lng": -43.6560632802915
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/geocode-71.png",
+        "icon_background_color": "#7B9EB0",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+        "name": "Estrada de Urucânia",
+        "place_id": "EjtFc3QuIGRlIFVydWPDom5pYSAtIFNhbnRhIENydXosIFJpbyBkZSBKYW5laXJvIC0gUkosIEJyYXppbCIuKiwKFAoSCZEQD6Eg-5sAEW8CVDlPd-kaEhQKEgnXihljMPGbABEnwNajhotmkQ",
+        "reference": "EjtFc3QuIGRlIFVydWPDom5pYSAtIFNhbnRhIENydXosIFJpbyBkZSBKYW5laXJvIC0gUkosIEJyYXppbCIuKiwKFAoSCZEQD6Eg-5sAEW8CVDlPd-kaEhQKEgnXihljMPGbABEnwNajhotmkQ",
+        "types": [
+            "route"
+        ],
+        "url": "https://maps.google.com/?q=Est.+de+Uruc%C3%A2nia+-+Santa+Cruz,+Rio+de+Janeiro+-+RJ,+Brazil&ftid=0x9bfb20a10f1091:0x1ae9774f3954026f",
+        "utc_offset": -180,
+        "vicinity": "Santa Cruz"
+    },
+    "status": "OK"
+}
